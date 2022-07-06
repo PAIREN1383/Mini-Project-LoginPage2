@@ -1,2 +1,3 @@
 # Mini-Project-LoginPage2
-You can use this Login page for your website.
+This mini-project is made by HTML and CSS.
+![This is an image](https://github.com/PAIREN1383/Mini-Project-LoginPage1/blob/main/Login%20page2%20img.PNG)
